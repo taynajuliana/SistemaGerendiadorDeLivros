@@ -1,0 +1,30 @@
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.csproj.AssemblyReference.cache
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.AssemblyInfoInputs.cache
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.AssemblyInfo.cs
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.csproj.CoreCompileInputs.cache
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\bin\Debug\net6.0\SGL.exe
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\bin\Debug\net6.0\SGL.deps.json
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\bin\Debug\net6.0\SGL.runtimeconfig.json
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\bin\Debug\net6.0\SGL.dll
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\bin\Debug\net6.0\SGL.pdb
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.dll
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\refint\SGL.dll
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.pdb
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\SGL.genruntimeconfig.cache
+C:\Users\tayna\source\repos\SistemaDeGerenciamentoDeLivros\SGL\obj\Debug\net6.0\ref\SGL.dll
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\bin\Debug\net6.0\SGL.exe
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\bin\Debug\net6.0\SGL.deps.json
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\bin\Debug\net6.0\SGL.runtimeconfig.json
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\bin\Debug\net6.0\SGL.dll
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\bin\Debug\net6.0\SGL.pdb
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.csproj.AssemblyReference.cache
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.AssemblyInfoInputs.cache
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.AssemblyInfo.cs
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.csproj.CoreCompileInputs.cache
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.dll
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\refint\SGL.dll
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.pdb
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\SGL.genruntimeconfig.cache
+C:\Users\i425594\OneDrive - Fundação Bradesco\TAYNA\SGL\obj\Debug\net6.0\ref\SGL.dll
